@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 # Hi, I'm Eren 👋
 
 🎓 Applied Mathematics undergraduate
+
 🔐 Interests: Cryptography, Cyber Security, Telecommunications  
+
 💻 Focus: Python, Signal Processing, Network & System Security  
 
 ## Current Goals
