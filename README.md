@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 🎓 Applied Mathematics undergraduate
 
-🔐 Interests: Cryptography, Cyber Security, Telecommunications  
+🔐 Interests: Cryptography, Cyber Security, Telecommunications, Wireless Networking Security, Wireless Engineering  
 
 💻 Focus: Python, Signal Processing, Network & System Security  
 
 ## Current Goals
-- Build practical security & telecom projects
+- Build practical security & telecom/wireless projects
 - Prepare for internship opportunities
 - Develop a strong technical portfolio
 
