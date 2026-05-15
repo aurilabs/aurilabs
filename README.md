@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Eren 👋
 
-🎓 Applied Mathematics undergraduate
+🎓 Applied Physics undergraduate
 
-🔐 Interests: Cryptography, Cyber Security, Telecommunications, Wireless Networking Security, Wireless Engineering  
+🔐 Interests: Cryptography, Telecommunications, Materials & Science Engineering, Polymer Materials Engineering
 
-💻 Focus: Python, Signal Processing, Network & System Security  
+💻 Focus: Python, Advanced Composites  
 
 ## Current Goals
-- Build practical security & telecom/wireless projects
 - Prepare for internship opportunities
 - Develop a strong technical portfolio
 
@@ -30,5 +29,5 @@ Here are some ideas to get you started:
 - Python, NumPy, SciPy
 - Linux, Networking basics
 - Git & GitHub
-
+- MATLAB, C++
 📌 This profile is actively updated with experiments and projects.
