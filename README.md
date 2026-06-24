@@ -17,16 +17,19 @@ Here are some ideas to get you started:
 
 🎓 Applied Physics undergraduate
 
-🔐 Interests: Cryptography, Telecommunications, Materials & Science Engineering, Polymer Materials Engineering
+🔐 Interests: Materials & Science Engineering, Polymer Materials Engineering, Energy Systems, Solid-State Physics
 
-💻 Focus: Python, Advanced Composites  
+💻 Focus: Python, Advanced Composites, Simulations, Research-Development About New Material Technologies
 
 ## Current Goals
 - Prepare for internship opportunities
 - Develop a strong technical portfolio
+- R&D About New Composites
 
 ## Tech Stack
-- Python, NumPy, SciPy
+- VESTA, Quantum ESPRESSO
+- COMSOL
+- Python, NumPy, SciPy, ASE Python Library
 - Linux, Networking basics
 - Git & GitHub
 - MATLAB, C++
